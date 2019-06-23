@@ -1,0 +1,2 @@
+# config-server
+SpringCloud Config
